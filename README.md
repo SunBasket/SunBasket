@@ -1,4 +1,4 @@
-# Sunbasket
+# Intelligent Foods
 Get healthy meal delivery featuring fresh, organic produce &amp; clean ingredients delivered to your door.
 
-[Sunbasket API for business integration](https://sunbasket.github.io/partner-api/)
+[Intelligent Foods API for business integration](https://intelligent-foods.github.io/partner-api/)
